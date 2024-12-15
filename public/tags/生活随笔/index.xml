@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>生活随笔 on Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/</link>
+    <description>Recent content in 生活随笔 on Even - A super concise theme for Hugo</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 13 Dec 2024 22:41:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇博客文章</title>
+      <link>http://localhost:1313/post/my-first-post/</link>
+      <pubDate>Fri, 13 Dec 2024 22:41:00 +0800</pubDate>
+      <guid>http://localhost:1313/post/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;欢迎来到我的个人博客&#34;&gt;欢迎来到我的个人博客&lt;/h1&gt;&#xA;&lt;h2 id=&#34;为什么要搭建个人博客&#34;&gt;为什么要搭建个人博客？&lt;/h2&gt;&#xA;&lt;p&gt;在这个信息爆炸的时代，每个人都有自己的故事要讲述，都有自己的经验要分享。搭建个人博客不仅可以记录自己的成长历程，还能与志同道合的朋友交流学习。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

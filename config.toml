@@ -1,0 +1,49 @@
+baseURL = "https://yourdomain.com/"
+languageCode = "zh-CN"
+title = "我的个人博客"
+theme = "ananke"
+
+[author]
+  name = "您的名字"
+  email = "youremail@example.com"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[[menu.main]]
+  name = "首页"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "关于"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  name = "标签"
+  url = "/tags/"
+  weight = 3
+
+[params]
+  description = "欢迎来到我的个人博客，这里分享我的技术和生活点滴。"
+  author = "您的名字"
+
+  [[params.social]]
+    icon = "github"
+    link = "https://github.com/yourusername"
+
+  [[params.social]]
+    icon = "twitter"
+    link = "https://twitter.com/yourusername"
+
+  # Google Analytics 配置
+  googleAnalytics = "UA-XXXXXXXXX-X"
+  
+  # Plausible 配置（如果使用）
+  plausible = false
+  plausibleDomain = "yourdomain.com"
+
+  # Disqus 配置（如果使用）
+  disqusShortname = "your-disqus-shortname" 
